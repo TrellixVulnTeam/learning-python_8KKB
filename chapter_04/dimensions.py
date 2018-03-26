@@ -1,0 +1,10 @@
+dimensions = (100,200)
+print(dimensions)
+print('矩形的长是',dimensions[0])
+print('矩形的宽是',dimensions[1])
+# dimensions.append(12)
+dimensions = (100,200,300)
+print(dimensions)
+# dimensions[0] = 1000
+# print('矩形的长是',dimensions[0])
+# print('矩形的宽是',dimensions[1])
